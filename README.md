@@ -24,6 +24,7 @@
 
 مشخصات سیستم:
 
-<img width="280" height="173" alt="Screenshot 2026-06-05 at 18 15 42" src="https://github.com/user-attachments/assets/8f509db7-6707-4fc8-9e5d-03a8e053417a" />
 
-  
+
+  <img width="280" height="173" alt="Screenshot 2026-06-05 at 18 15 42" src="https://github.com/user-attachments/assets/443fd722-9875-4c2d-a806-2e5763e390fc" />
+
